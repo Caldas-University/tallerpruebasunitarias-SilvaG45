@@ -1,6 +1,6 @@
 # Proyecto: Sistema de Validación de Retiros - Cuenta de Ahorros
 
-Este proyecto implementa un sistema de validación para la gestión de retiros en cuentas de ahorros. La lógica de validación asegura que los retiros solo sean permitidos si se cumplen una serie de condiciones. 
+Este proyecto implementa un sistema de validación para la gestión de retiros en cuentas de ahorros. La lógica de validación asegura que los retiros solo sean permitidos si se cumplen una serie de condiciones.
 
 ## Requisitos del Proyecto
 
@@ -41,25 +41,25 @@ tallerpruebasunitarias-SilvaG45
 
 1. **Clonar el repositorio:**
 
-    ```bash
-    git clone <url-del-repositorio>
-    ```
+   ```bash
+   git clone <url-del-repositorio>
+   ```
 
 2. **Restaurar las dependencias de NuGet:**
 
-    Desde la raíz del proyecto, ejecuta el siguiente comando para restaurar las dependencias:
+   Desde la raíz del proyecto, ejecuta el siguiente comando para restaurar las dependencias:
 
-    ```bash
-    dotnet restore
-    ```
+   ```bash
+   dotnet restore
+   ```
 
 3. **Compilar el proyecto:**
 
-    Para compilar el proyecto y asegurarte de que no haya errores de compilación:
+   Para compilar el proyecto y asegurarte de que no haya errores de compilación:
 
-    ```bash
-    dotnet build
-    ```
+   ```bash
+   dotnet build
+   ```
 
 ### Ejecutar las pruebas
 
@@ -67,3 +67,4 @@ Para ejecutar las pruebas unitarias, usa el siguiente comando:
 
 ```bash
 dotnet test
+```
