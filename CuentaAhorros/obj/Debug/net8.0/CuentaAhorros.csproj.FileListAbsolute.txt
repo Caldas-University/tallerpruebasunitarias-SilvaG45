@@ -1,0 +1,12 @@
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\bin\Debug\net8.0\CuentaAhorros.deps.json
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\bin\Debug\net8.0\CuentaAhorros.dll
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\bin\Debug\net8.0\CuentaAhorros.pdb
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.AssemblyInfoInputs.cache
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.AssemblyInfo.cs
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.sourcelink.json
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.dll
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\refint\CuentaAhorros.dll
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\CuentaAhorros.pdb
+C:\Users\USUARIO\github-classroom\Caldas-University\tallerpruebasunitarias-SilvaG45\CuentaAhorros\obj\Debug\net8.0\ref\CuentaAhorros.dll
